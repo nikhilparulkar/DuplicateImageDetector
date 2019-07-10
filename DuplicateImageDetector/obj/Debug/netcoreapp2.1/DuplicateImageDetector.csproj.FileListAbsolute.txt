@@ -1,0 +1,12 @@
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\bin\Debug\netcoreapp2.1\DuplicateImageDetector.deps.json
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\bin\Debug\netcoreapp2.1\DuplicateImageDetector.runtimeconfig.json
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\bin\Debug\netcoreapp2.1\DuplicateImageDetector.runtimeconfig.dev.json
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\bin\Debug\netcoreapp2.1\DuplicateImageDetector.dll
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\bin\Debug\netcoreapp2.1\DuplicateImageDetector.pdb
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\obj\Debug\netcoreapp2.1\DuplicateImageDetector.csprojAssemblyReference.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\obj\Debug\netcoreapp2.1\DuplicateImageDetector.csproj.CoreCompileInputs.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\obj\Debug\netcoreapp2.1\DuplicateImageDetector.AssemblyInfoInputs.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\obj\Debug\netcoreapp2.1\DuplicateImageDetector.AssemblyInfo.cs
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\obj\Debug\netcoreapp2.1\DuplicateImageDetector.dll
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\obj\Debug\netcoreapp2.1\DuplicateImageDetector.pdb
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\DuplicateImageDetector\DuplicateImageDetector\bin\Debug\netcoreapp2.1\NLog.xml
